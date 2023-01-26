@@ -1,7 +1,7 @@
 ### Olá eu sou Roberto Pedro 👋
 
-- 🔭 Hoje trabalho com Pyhton
-- 🌱 Estudando Python
+- 🔭 Hoje trabalho com Java
+- 🌱 Estudando Java
 - 📫 Contate-me no email: robertopedro100@gmail.com
   
   <div style="display: inline_block"><br>
